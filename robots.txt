@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aldrichvhalim.github.io./sitemap.xml
+Sitemap: https://aldrichvhalim.github.io/sitemap.xml

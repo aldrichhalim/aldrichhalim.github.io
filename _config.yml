@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+first_name: Aldrich
+middle_name:
+last_name: Halim
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://aldrichvhalim.github.io # the base hostname & protocol for your site
+url: https://aldrichhalim.github.io # the base hostname & protocol for your site
 # the subpath of your site, e.g. /blog/. Leave blank for root
 baseurl:
 last_updated: false # set to true if you want to display last updated in the footer

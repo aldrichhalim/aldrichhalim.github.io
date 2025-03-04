@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   <i>Ex-Founding Engineer at <a href="https://www.makmur.id" target="_blank">Makmur.id</a>.

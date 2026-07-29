@@ -1,0 +1,13 @@
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="site-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+
+    <nav class="site-nav" aria-label="Main">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} aria-current="page"{% endif %}>Writing</a>
+      <button type="button" class="theme-toggle" aria-label="Switch between light and dark theme" title="Switch theme">
+        <span class="theme-toggle-icon" aria-hidden="true"></span>
+      </button>
+    </nav>
+  </div>
+</header>

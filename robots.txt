@@ -1,4 +1,74 @@
-User-agent: *
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Begin Jekyll SEO tag v2.9.0 -->
+<title>Aldrich Halim | Software engineer in Brooklyn</title>
+<meta name="generator" content="Jekyll v4.4.1" />
+<meta property="og:title" content="Aldrich Halim" />
+<meta name="author" content="Aldrich Halim" />
+<meta property="og:locale" content="en" />
+<meta name="description" content="Notes on networks, fintech engineering, and things I broke and then fixed." />
+<meta name="twitter:description" property="og:description" content="Notes on networks, fintech engineering, and things I broke and then fixed." />
+<link rel="canonical" href="https://aldrichhalim.github.io/robots.txt" />
+<meta property="og:url" content="https://aldrichhalim.github.io/robots.txt" />
+<meta property="og:site_name" content="Aldrich Halim" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Aldrich Halim" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"Aldrich Halim"},"description":"Notes on networks, fintech engineering, and things I broke and then fixed.","headline":"Aldrich Halim","url":"https://aldrichhalim.github.io/robots.txt"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <link type="application/atom+xml" rel="alternate" href="https://aldrichhalim.github.io/feed.xml" title="Aldrich Halim" />
+
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>◆</text></svg>"><script>
+    (function () {
+      try {
+        var stored = localStorage.getItem("theme");
+        if (stored === "dark" || stored === "light") {
+          document.documentElement.dataset.theme = stored;
+        }
+      } catch (e) {}
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a><header class="site-header">
+  <div class="wrap header-inner">
+    <a class="site-name" href="/">Aldrich Halim</a>
+
+    <nav class="site-nav" aria-label="Main">
+      <a href="/">Home</a>
+      <a href="/blog/">Writing</a>
+      <button type="button" class="theme-toggle" aria-label="Switch between light and dark theme" title="Switch theme">
+        <span class="theme-toggle-icon" aria-hidden="true"></span>
+      </button>
+    </nav>
+  </div>
+</header>
+<main id="content" class="wrap">
+    <article class="page"><div class="prose">
+    User-agent: *
 Disallow:
 
 Sitemap: https://aldrichhalim.github.io/sitemap.xml
+
+  </div>
+</article>
+
+  </main><footer class="site-footer">
+  <div class="wrap footer-inner">
+    <ul class="social"><li><a href="https://github.com/aldrichhalim" rel="me">GitHub</a></li><li><a href="https://www.linkedin.com/in/aldrichhalim" rel="me">LinkedIn</a></li><li><a href="mailto:aldrichvhalim@gmail.com">Email</a></li><li><a href="/feed.xml">RSS</a></li>
+    </ul>
+    <p class="colophon">
+      &copy; 2026 Aldrich Halim. Built with
+      <a href="https://jekyllrb.com/">Jekyll</a>.
+    </p>
+  </div>
+</footer>
+<script src="/assets/js/theme.js" defer></script>
+</body>
+</html>

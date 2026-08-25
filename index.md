@@ -3,20 +3,10 @@ layout: home
 avatar: /assets/img/personal.jpg
 ---
 
-# Hi, I'm Aldrich
+# Hi, I'm Aldrich.
 
-I'm a software engineer in Brooklyn. I finished my MSc in Computer Engineering at NYU
-Tandon in May 2025, focusing on networking, data centers, cloud, and security — and
-TA'd the data center and cloud computing course while I was there. My research project
-was DDoS detection on encrypted traffic, which is exactly as annoying as it sounds:
-the payload is the one thing you can't look at.
+I'm a software engineer based in Jakarta, Indonesia. I'm currently working as a Founding Engineer at [Makmur.id](https://www.makmur.id), an Indonesian investing app that helps users invest in stocks and funds. As a lead backend engineer, my daily work revolves around managing teams and helping engineers drive decisions and solve latency-sensitive technical problems.
 
-Before that I was a founding engineer at [Makmur.id](https://www.makmur.id), an
-Indonesian fintech startup that put mutual fund investing on a lot of phones for the
-first time. I built the React Native app, a good chunk of the backend, and the AWS
-infrastructure underneath it — which is how I learned that "it works on staging" is a
-complete sentence and also a lie.
+I previously completed my Masters in Computer Engineering at NYU in May 2025. I mainly focused on Data Center, Cloud Computing, Deep Learning, and Cybersecurity. My final project was building a DDoS encrypted packet/traffic classifier using Machine Learning and Deep Learning that are scalable for milliseconds to nanoseconds inference under extreme network demands.
 
-Mostly I work in TypeScript, Python, and Java: React and Next.js on the front, Node
-on the back, AWS in the middle. I write here about networks, fintech engineering, and
-things I broke and then fixed.
+I code in TypeScript/JavaScript, Python, and C++. I mostly deploy all my code to AWS. Here to share my thoughts on tech, investing, and share my personal or professional learning experiences.

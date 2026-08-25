@@ -78,15 +78,32 @@ where the AI can freely choose what kind of structure it want to build.
 
 ### Here Comes the Business Logic
 
-- the thing?
+My method for the business logic implementation was quite similar. I first defined my goal 
+and let Claude refine the plan, measure what will change, and have the skeleton code already written. 
+There are some common terms that may need more explanation on how it will be used. My mistake was that 
+I didn’t give a proper example on how the rules in the entities will interact with each other, and 
+I didn’t give a full scenario on the expected results.
 
-- the result => churn
+In my testing, even though it constructed the full idea in code, write unit tests to verify it, and 
+ran some real data through the APIs, I couldn’t stand the hallucinations that it created. It recreated 
+some parts of the logic based of its own understanding of the terms and therefore make it 
+completely all wrong. After a few shots of prompt and persistent outcome, I decided to rewrite some 
+parts myself. This is where I want to highlight a huge part of this agentic coding loop: reading a 
+code that’s not originally yours.
 
-- reflecting?
+Reading the code and trying to make incremental changes takes more time than it used to be. 
+Especially, compared to the previous session where I read the PRs to review the refactoring. 
+The code churn here is real. After finish polishing the logic the way it should be, I prompted Claude 
+to review and fix the test cases. Here is where the aha moment came to me: the AI simply understands 
+structured code better than human English. With a few context explanations about the changes, it understands 
+what the terms and fields actually mean.
+
 
 ## Second Try, SaaS App
 
-- template using paddle nextjs
+My second try was trying to create a SaaS app. Knowing that I have to induce the AI by giving 
+a structure before diving into the logic, I first searched for a template on GitHub and settled 
+with Paddle’s SaaS template with NextJS.
 
 ### The good
 

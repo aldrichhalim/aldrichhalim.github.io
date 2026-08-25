@@ -13,8 +13,8 @@ around the dawn of agentic coding and engieering.
 In my own experiences, if you really want to know something is really working or not,
 you really have to build your own real-world project and use it in your daily lives.
 I've first experiment with small websites and landing pages. Like a lot of engineers and
-[Reddit](https://www.reddit.com/r/vibecoding/) comments on the internet, you'd expect a similar 
-boxy and templated landing pages you see a lot on the internet. 
+[Reddit](https://www.reddit.com/r/vibecoding/) comments on the internet, you'd expect a similar
+boxy and templated landing pages you see a lot on the internet.
 My first impression was that it felt like magic. The AI spit
 out code without even thinking, and I don't have to read all the code to understand and
 have a project running. In essence, the experience reminded me of when you found somewhat
@@ -52,7 +52,7 @@ the first ever production codebase using the `/init` command.
 
 After the mandatory `CLAUDE.md` generation, I went to plan mode and start explaning the requirements.
 It was creating a plugin system where I could dynamically implement a logic feature by extending
-a base class with all the requirements. Then, I would create the first plugin required for the 
+a base class with all the requirements. Then, I would create the first plugin required for the
 Q2 feature. So, it was a two sequential tasks. The first one being the low-level support in
 the microservice itself, and the latter being the high-level business logic that is attached
 to the service. With a few back and forth prompt and all my Opus token credits in that session, I managed to
@@ -70,7 +70,7 @@ touched more than 2-3 files.
 
 The result were decent, at best. I used Opus with High effort throughout this test. It managed
 to create the blueprint quite well, and I was happy with the overall approach of the code.
-The interfaces were clean, and the next step for the job was well defined. The most important part 
+The interfaces were clean, and the next step for the job was well defined. The most important part
 is that I can see the real cost benefit of using this: it saves a lot of time in coding boilerplates.
 AI are specifically well in doing this sort of building or laying out the infrastructure to existing
 code base. I can confidently say that this experience is an upgrade from my previous experimentation,
